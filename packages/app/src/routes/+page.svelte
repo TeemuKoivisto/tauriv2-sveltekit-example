@@ -23,6 +23,11 @@
 </div>
 
 <style>
+  .logo.tauri {
+    height: 32px;
+    width: 32px;
+  }
+
   .logo.vite:hover {
     filter: drop-shadow(0 0 2em #747bff);
   }
